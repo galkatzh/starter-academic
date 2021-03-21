@@ -9,12 +9,11 @@ superuser: true
 role: Computer Science PhD candidate
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: HUJI
-  url: https://www.huji.ac.il/
+organizations: []
+
 
 # Short bio (displayed in user profile at end of posts)
-bio: Interested in the theory of Artificial Intelligence, and Complex Systems.
+bio: Computer Science PhD candidate at the Hebrew University.
 
 # Interests to show in About widget
 interests:
@@ -30,10 +29,10 @@ interests:
 social:
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/galkatzh
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com
 - icon: github
   icon_pack: fab
   link: https://github.com/galkatzh
