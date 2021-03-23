@@ -2,6 +2,7 @@
 abstract: ""
 slides: example
 url_pdf: ""
+page_type: publication
 publication_types:
   - "1"
 authors:
