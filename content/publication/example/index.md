@@ -2,7 +2,7 @@
 abstract: ""
 slides: example
 url_pdf: ""
-title: An example conference paper
+title: "[An example conference paper]()"
 publication_types:
   - "3"
 authors:
