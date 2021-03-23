@@ -3,6 +3,7 @@ abstract: ""
 slides: example
 url_pdf: ""
 page_type: publication
+preview_only: true
 publication_types:
   - "1"
 authors:
@@ -20,7 +21,7 @@ url_source: ""
 url_video: ""
 title: An example conference paper
 doi: ""
-featured: false
+featured: true
 tags: []
 projects:
   - example
