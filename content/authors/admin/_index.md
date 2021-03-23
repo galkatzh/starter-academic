@@ -1,7 +1,7 @@
 ---
 title: Gal Katzhendler
 role: Computer Science PhD candidate
-avatar_filename: untitled.jpg
+avatar_filename: avatar.jpg
 bio: Computer Science PhD candidate at the Hebrew University.
 interests:
   - Artificial Intelligence
