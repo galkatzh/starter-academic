@@ -4,8 +4,8 @@ slides: example
 url_pdf: ""
 title: example
 subtitle: ""
-external_link: ""
-url_: ""
+external_link: "aaa"
+url_: "aaa"
 publication_types:
   - "0"
 authors:
