@@ -14,5 +14,8 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+url_pdf: "https://www.cs.huji.ac.il/~daphna/papers/KatzhendlerWeinshall_PNAS2019.pdf"
+external_link: "https://www.pnas.org/content/116/38/18765"
+
 date: 2021-03-24T17:23:57.532Z
 ---
