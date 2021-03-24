@@ -4,8 +4,7 @@ slides: example
 url_pdf: ""
 title: example
 subtitle: ""
-external_link: "www.walla.com"
-url_: "www.abc.com"
+external_link: "https://www.walla.com"
 publication_types:
   - "0"
 authors:
