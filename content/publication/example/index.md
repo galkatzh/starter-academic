@@ -2,9 +2,10 @@
 abstract: ""
 slides: example
 url_pdf: ""
-title: "[An example conference paper]()"
+title: example
+subtitle: ""
 publication_types:
-  - "3"
+  - "0"
 authors:
   - admin
   - Robert Ford
